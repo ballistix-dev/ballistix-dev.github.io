@@ -14,8 +14,8 @@ Watch the video below.
 ### Checklist
 
  1. Install [Atom Text Editor](http://atom.io/) and [Atom HTML Preview](https://atom.io/packages/atom-html-preview) Package
- 2. Setup [Snippets](https://github.com/marcelbadua/html-email/blob/master/snippets/atom.cson) to be used for HTML Email Building
- 3. Download [Boilerplate]((https://github.com/marcelbadua/html-email))
+ 2. Setup [Snippets](https://github.com/ballistix-dev/html-email/blob/master/snippets/atom.cson) to be used for HTML Email Building
+ 3. Download [Boilerplate](https://github.com/ballistix-dev/html-emaill)
 
 ### Boilerplate
 
