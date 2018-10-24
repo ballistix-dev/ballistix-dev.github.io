@@ -21,11 +21,7 @@ Watch the video below.
 
 **Use this boilerplate always for a new project.**
 
-[https://github.com/marcelbadua/html-email](https://github.com/marcelbadua/html-email)
-
-or download directly from:
-
-[https://github.com/marcelbadua/html-email/archive/master.zip](https://github.com/marcelbadua/html-email/archive/master.zip)
+[https://github.com/ballistix-dev/html-email](https://github.com/ballistix-dev/html-email)
 
 ### Notes
 
