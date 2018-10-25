@@ -22,6 +22,6 @@ Now we need to point the domain to that IP.
 
 ### Manually on Windows
 
-1. Open this file C:\Windows\System32\drivers\etc\host with admin rights.
+1. Open this file **C:\Windows\System32\drivers\etc\host** with admin rights.
 1. add IP and domain
 1. Go to the URL.
