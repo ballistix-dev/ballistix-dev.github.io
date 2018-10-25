@@ -13,7 +13,7 @@ Basically you first needed to first know the IP address of the host you are goin
 
 ### use an Application
 
-1. Go to https://github.com/oldj/SwitchHosts/releases and select release depending on your OS.
-1. Extract files and run as administrator 'SwitchHosts!'
+1. Go to https://github.com/oldj/SwitchHosts/releases and select/download the release depending on your OS.
+1. Extract files and run as administrator **SwitchHosts!.exe**
 1. add IP and domain
 1. Go to the URL.
