@@ -7,7 +7,7 @@ categories: wordpress staging
 
 Host Switching is needed when we want to test an instance, and want to use the production URL which is being currently used by another instance. Some reasons of this is to maintain the URL links of assets and settings.
 
-There are a couple of ways do host switch, but basically you first needed to first know the IP address of the host you are going to switch to and the domain of the site.
+Basically you first needed to first know the IP address of the host you are going to switch to and the domain of the site.
 
     52.5.15.126 www.whitehatvirtual.com
 
