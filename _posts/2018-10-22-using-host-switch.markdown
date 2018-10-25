@@ -16,6 +16,12 @@ Now we need to point the domain to that IP.
 ### use an Application
 
 1. Go to https://github.com/oldj/SwitchHosts/releases and select/download the release depending on your OS.
-1. Extract files and run as administrator **SwitchHosts!.exe**
+1. Extract files and open **SwitchHosts!.exe** with admin rights
+1. add IP and domain
+1. Go to the URL.
+
+### Windows
+
+1. Open this file C:\Windows\System32\drivers\etc\host with admin rights.
 1. add IP and domain
 1. Go to the URL.
