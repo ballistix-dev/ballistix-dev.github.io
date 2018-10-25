@@ -13,14 +13,14 @@ All we need is the IP address of the host you are going to switch to and the dom
     
 Now we need to point the domain to that IP. 
 
-### use an Application
+### Use an Application
 
 1. Go to https://github.com/oldj/SwitchHosts/releases and select/download the release depending on your OS.
 1. Extract files and open **SwitchHosts!.exe** with admin rights
 1. add IP and domain
 1. Go to the URL.
 
-### Windows
+### Manually on Windows
 
 1. Open this file C:\Windows\System32\drivers\etc\host with admin rights.
 1. add IP and domain
