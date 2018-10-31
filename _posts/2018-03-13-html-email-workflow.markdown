@@ -17,12 +17,6 @@ Watch the video below.
  2. Setup [Snippets](https://bitbucket.org/ballistixspe/html-email/src/master/snippets/atom.cson) to be used for HTML Email Building
  3. Download [Boilerplate](https://bitbucket.org/ballistixspe/html-email/downloads/)
 
-### Boilerplate
-
-**Use this boilerplate always for a new project.**
-
-https://bitbucket.org/ballistixspe/html-email/src/master/
-
 ### Notes
 
 1. Limitations of HTML Email: [https://kb.mailchimp.com/campaigns/design/limitations-of-html-email](https://kb.mailchimp.com/campaigns/design/limitations-of-html-email)
