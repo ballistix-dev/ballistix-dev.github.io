@@ -5,7 +5,7 @@ date:   2018-11-02 08:17:00 +0800
 categories: production vpn
 ---
 
-1. Go and login to <a href="https://34.199.38.17/?src=connect" target="_blank">http://34.199.38.17</a>. (*Contact Kervin for your credentials*)
+1. Go and login to <a href="https://34.199.38.17/?src=connect" target="_blank">https://34.199.38.17/?src=connect</a>. (*Contact Kervin for your credentials*)
 
 1. After login, download the **OpenVPN Connect app** according to your OS
 
