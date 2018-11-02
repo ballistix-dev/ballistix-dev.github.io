@@ -13,7 +13,7 @@ categories: production vpn
 
 1. Install downloaded file.
 
-1. *Windows* - On notification bar, right click OpenVPN notification icon and go to 34.199.38.17 > Connect. Enter your credentials when asked. Server IP is 34.199.38.17
+1. *Windows* - On notification bar, right click OpenVPN notification icon and go to 34.199.38.17 > Connect. Enter your credentials when asked. Server IP is 34.199.38.17. A success notification promt will show.
 
    ![alt text]({{ "/assets/img/2018-11-02/connect.png" | relative_url }})
    
