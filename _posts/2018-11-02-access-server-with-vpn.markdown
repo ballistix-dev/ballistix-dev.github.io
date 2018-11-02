@@ -17,7 +17,7 @@ categories: production vpn
 
    ![alt text]({{ "/assets/img/2018-11-02/connect.png" | relative_url }})
    
-1. At this point you can connect:
-        
-        - Terminal `ssh username@10.0.1.220`
-        - SFTP, Host: 10.0.1.220
+1. To connect to CMS04, use host 10.0.1.220 
+     
+   - Terminal: `ssh username@10.0.1.220`
+   - SFTP: Host: 10.0.1.220
