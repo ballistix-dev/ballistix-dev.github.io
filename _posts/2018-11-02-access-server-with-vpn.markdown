@@ -27,10 +27,11 @@ categories: production vpn
 
 1. Download and install [Filezilla](https://filezilla-project.org/download.php?type=client)
 1. Open File > Site Manager
-1. Click *New Site* and enter this details
+1. Click **New Site** and enter this details
    - Protocol: SFTP
    - Host: 10.0.1.220
    - Port: 22
    - Logon Type: Normal
    - User: your static.ballistixmail.com username
    - Password: your static.ballistixmail.com username
+1. Click **Connect**
