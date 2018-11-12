@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Configure NGINX for wordpress permalinks"
-date:   2018-11-02 08:17:00 +0800
+date:   2018-11-06 08:17:00 +0800
 categories: staging nginx permalinks
 ---
 
