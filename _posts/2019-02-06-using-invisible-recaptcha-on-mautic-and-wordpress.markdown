@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "using-invisible-recaptcha-on-mautic-for-wordpress"
+title:  "Using Invisible Recaptcha on Mautic and Wordpress"
 date:   2019-02-06 07:36:12 +0800
 categories: wordpress mautic wordpress
 ---
