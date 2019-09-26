@@ -7,11 +7,11 @@ categories: wordpress vvv staging
 
 ### Requisite for local development
 
- 1. [vvv](https://varyingvagrantvagrants.org/). For [installation instructions](https://varyingvagrantvagrants.org/docs/en-US/installation/software-requirements/)
+ 1. [varyingvagrantvagrants(vvv)](https://varyingvagrantvagrants.org/). For [installation instructions](https://varyingvagrantvagrants.org/docs/en-US/installation/software-requirements/)
  
 ### Deploying local site
 
- 1. add this on `vvv-custom.yml`. Change instances of 'mysite' to project name.
+ 1. add this on `vvv-custom.yml`. Change instances of *mysite* to project name.
  
         mysite: # vagrant provision --provision-with site-mysite
           repo: https://github.com/ballistix-dev/custom-site-template.git
