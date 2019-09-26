@@ -27,3 +27,19 @@ categories: wordpress vvv staging
             - mysite.test
   
   2. On terminal, go to your vvv folder and run this command `vagrant provision --provision-with site-mysite` remember to change *mysite* to project name. this will install the latest wordpress, necessary plugins, and custom themes. A user is already been setup (check terminal for credentials). 
+
+### About Themes and Plugins pre-installed
+
+#### Themes
+
+ 1. **_dash:**_ mother theme for theming. 
+ 1. **_ballistix:**_ child theme for theming. Utilizes Gulp for automated compiling of styles and scripts. Run `gulp serve`.
+ 
+ #### Plugins
+ 
+ 1. **ballistix-so-bundle:** includes customized widgets. Dont Forget to activate widget under **Plugins** > **SiteOrigin Widgets**
+  - Accordion Widget
+  - Tabs Widget
+  - Responsive Menu Widget
+ 1. **animated-classes:** animates an element by adding data attribute `data-animate="[animation-type]"`. For list of animation, refer to [Animate.css](https://daneden.github.io/animate.css/).
+ 
