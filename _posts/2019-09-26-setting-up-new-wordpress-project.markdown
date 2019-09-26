@@ -13,17 +13,17 @@ categories: wordpress vvv staging
 
  1. add this on `vvv-custom.yml`. Change instances of 'mysite' to project name.
  
-  mysite: # vagrant provision --provision-with site-mysite
-        repo: https://github.com/ballistix-dev/custom-site-template.git
-        custom:
-          # locale: it_IT
-          delete_default_plugins: true
-          install_plugins:
-             - siteorigin-panels
-             - so-widgets-bundle
-             - https://github.com/marcelbaduaballistix/ballistix-so-bundle/archive/master.zip
-             - https://github.com/marcelbaduaballistix/animated-classes/archive/master.zip
-        hosts:
-          - mysite.test
+        mysite: # vagrant provision --provision-with site-mysite
+          repo: https://github.com/ballistix-dev/custom-site-template.git
+          custom:
+            # locale: it_IT
+            delete_default_plugins: true
+            install_plugins:
+              - siteorigin-panels
+              - so-widgets-bundle
+              - https://github.com/marcelbaduaballistix/ballistix-so-bundle/archive/master.zip
+              - https://github.com/marcelbaduaballistix/animated-classes/archive/master.zip
+          hosts:
+            - mysite.test
   
-  2. Run provision `vagrant provision --provision-with site-sample`
+  2. Run provision `vagrant provision --provision-with site-mysite`
