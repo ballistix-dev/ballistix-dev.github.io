@@ -26,4 +26,4 @@ categories: wordpress vvv staging
           hosts:
             - mysite.test
   
-  2. Run provision `vagrant provision --provision-with site-mysite`
+  2. On terminal, go to your vvv folder and run this command `vagrant provision --provision-with site-mysite` remember to change *mysite* to project name. this will install the latest wordpress, necessary plugins, and custom themes. A user is already been setup (check terminal for credentials). 
