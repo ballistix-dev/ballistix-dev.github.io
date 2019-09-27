@@ -15,16 +15,21 @@ categories: wordpress vvv staging
  
         mysite: # vagrant provision --provision-with site-mysite
           repo: https://github.com/ballistix-dev/custom-site-template.git
+          hosts:
+            - mysite.test
           custom:
-            # locale: it_IT
             delete_default_plugins: true
             install_plugins:
               - siteorigin-panels
               - so-widgets-bundle
               - https://github.com/marcelbaduaballistix/ballistix-so-bundle/archive/master.zip
               - https://github.com/marcelbaduaballistix/animated-classes/archive/master.zip
-          hosts:
-            - mysite.test
+            wpconfig_constants:
+              WP_DEBUG: true
+              WP_DEBUG_LOG: true
+              DISALLOW_FILE_EDIT: true
+              WP_DISABLE_FATAL_ERROR_HANDLER: true # To disable in WP 5.2 the FER mode
+          
   
   1. On terminal, go to your vvv folder and run this command `vagrant provision --provision-with site-mysite` remember to change *mysite* to project name. this will install the latest wordpress, necessary plugins, and custom themes. A user is already been setup (check terminal for credentials). 
 
