@@ -22,8 +22,8 @@ categories: wordpress vvv staging
             install_plugins:
               - siteorigin-panels
               - so-widgets-bundle
-              - https://github.com/marcelbaduaballistix/ballistix-so-bundle/archive/master.zip
-              - https://github.com/marcelbaduaballistix/animated-classes/archive/master.zip
+              - https://github.com/ballistix-dev/ballistix-so-bundle/archive/master.zip
+              - https://github.com/ballistix-dev/animated-classes/archive/master.zip
             wpconfig_constants:
               WP_DEBUG: true
               WP_DEBUG_LOG: true
