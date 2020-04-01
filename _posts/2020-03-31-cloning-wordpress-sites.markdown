@@ -5,7 +5,7 @@ date:   2020-03-31 07:36:12 +0800
 categories: wordpress clone
 ---
  
- ## Creating clone file
+ ##Creating clone file
  
  ![alt text]({{ "assets/img/wp-clone-01.jpg" | relative_url }} "Step 1")
  
@@ -14,7 +14,7 @@ categories: wordpress clone
  1. On **Restore from URL:** field, paste URL provided by Ballistix
  1. Click on **Restore from URL:** to start process
  
- ## Exporting clone file
+ ##Exporting clone file
  
  ![alt text]({{ "assets/img/wp-clone-02.jpg" | relative_url }} "Step 2")
  
