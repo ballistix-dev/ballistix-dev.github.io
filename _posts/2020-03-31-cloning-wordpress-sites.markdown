@@ -12,8 +12,7 @@ categories: wordpress clone
  1. Login to stage site: <http://test.ballistixwip.com/umfmedical/wp-admin>
  1. Select **WP Clone** on the wordpress dashboard
  1. Click **Create Backup** button
- 1. After the clone is done, copy **Copy URL** to copy clone link
-
+ 1. After the clone is done, click **Copy URL** beside the newly created clone.
 ## Exporting clone file
  
  ![alt text]({{ "assets/img/wp-clone-01b.jpg" | relative_url }} "Step 2")
