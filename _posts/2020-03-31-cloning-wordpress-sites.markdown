@@ -4,7 +4,7 @@ title:  "Cloning Wordpress Site using WP Clone"
 date:   2020-03-31 07:36:12 +0800
 categories: wordpress clone
 ---
-## Requisite
+## Prerequisite
  - [WP Clone](https://wordpress.org/plugins/wp-clone-by-wp-academy/) plugin installed on both staging and production site.
  
 ## Creating clone file
