@@ -7,7 +7,7 @@ categories: wordpress clone
 ## Prerequisite
  - [WP Clone](https://wordpress.org/plugins/wp-clone-by-wp-academy/) - should be installed on both source/staging and production site.
  
-## Creating clone file
+## 1. Creating clone file
  
  ![alt text]({{ "assets/img/wp-clone-01a.jpg" | relative_url }} "Step 1")
  
@@ -16,7 +16,7 @@ categories: wordpress clone
  1. Make sure the *Create Button radio* is chosen then Click **Create Backup** button
  1. After the clone is done, click **Copy URL** beside the newly created clone.
 
-## Exporting clone file
+## 2. Exporting clone file
  
  ![alt text]({{ "assets/img/wp-clone-01b.jpg" | relative_url }} "Step 2")
  
