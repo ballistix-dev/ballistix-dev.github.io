@@ -20,4 +20,4 @@ Now we need to point the domain to that IP.
 1. On the left side tab, click My Host, then add IP and domain on right side. Make sure the toggle beside the My Host is turned on.
 1. Go to the URL.
 
-
+![alt text]({{ "/assets/img/switchhost.png" | relative_url }} "Switch Host")
