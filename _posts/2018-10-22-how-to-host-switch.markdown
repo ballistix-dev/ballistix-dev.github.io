@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Use Host Switch"
+title:  "How to Host Switch"
 date:   2018-10-22 07:38:12 +0800
 categories: wordpress staging
 ---
@@ -13,7 +13,7 @@ All we need is the IP address of the host you are going to switch to and the dom
     
 Now we need to point the domain to that IP. 
 
-### Using Switch Host Application
+### Using 'Switch Host' Application
 
 1. Go to [https://github.com/oldj/SwitchHosts/releases](https://github.com/oldj/SwitchHosts/releases) and select/download the release depending on your OS.
 1. Extract files and open **SwitchHosts!.exe** with Administrator rights
