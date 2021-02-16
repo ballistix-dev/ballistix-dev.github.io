@@ -8,6 +8,8 @@ categories: production dns
  1. Sign in to your domain's account at your domain host. [Who is my domain host?](https://whois.icann.org/en/lookup)
  1. Locate the page for updating your domain's DNS records.
  1. The page might be called something like DNS Management, Name Server Management, or Advanced Settings.
+ 
+ if you are using Cloudflare, go to your site and click on the DNS tab, then click "+ Add Record Button"
 
     Name/Host/Alias | Time to Live (TTL) | Record Type | Value / Answer / Destination
     --- | --- | --- | ---
