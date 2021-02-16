@@ -11,7 +11,7 @@ categories: production dns
  
  if you are using Cloudflare, go to your site and click on the DNS tab, then click "+ Add Record Button"
  
- ![alt text]({{ "assets/img/cloudflare.jpg" | relative_url }} "Step 1")
+ ![alt text]({{ "assets/img/cloudflare.png" | relative_url }} "Step 1")
  
 
 Name/Host/Alias | Time to Live (TTL) | Record Type | Value / Answer / Destination
