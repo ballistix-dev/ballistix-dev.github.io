@@ -11,7 +11,7 @@ categories: production dns
 
  Name/Host/Alias | Time to Live (TTL) | Record Type | Value / Answer / Destination
  --- | --- | --- | ---
- @ (can be blank)| 86400 | A | 3.232.12.224
- www | 86400 | A | 3.232.12.224
+ @ (can be blank)| 86400 | A | 107.21.219.15
+ www | 86400 | A | 107.21.219.15
 
  1. Save your changes and wait until they take effect.
