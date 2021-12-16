@@ -13,12 +13,12 @@ Install [Backup Migration](https://wordpress.org/plugins/backup-backup/) by [Mig
 
  1. Login to source site.
  1. Select **Backup Migration** on the Wordpress dashboard
- 1. On the *Create backup()s* tab, click the large green button that says *Create Backup Now*. A popup will show and click the *Create the backup!*. A backup will process.
+ 1. On the *Create backup(s)* tab, click the large green button that says *Create Backup Now*. A popup will show and click the *Create the backup!*. A backup will process.
  1. After the backup is succesfully done, click **Copy** to copy the URL to be use on the new site.
 
 ## Exporting clone file
 
  1. Login to your new  site.
  1. Select **Backup Migration** on the Wordpress dashboard
- 1. On the *Manage and restore backup()s* tab, click *Super quick migration* dropdown and paste the backup URL. 
+ 1. On the *Manage and restore backup(s)* tab, click *Super quick migration* dropdown and paste the backup URL. 
  1. Click on the *Restore Now* button.
