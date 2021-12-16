@@ -7,7 +7,7 @@ categories: wordpress backup migrate clone
 
 This article will guide you on creating file for backup or for migrating or cloning a wordpress site.
 
-Install [Backup Migration](https://wordpress.org/plugins/backup-backup/) by [Migrate]https://backupbliss.com/ which should be installed on both source and new site.
+Install [Backup Migration](https://wordpress.org/plugins/backup-backup/) by [Migrate](https://backupbliss.com/) which should be installed on both source and new site.
  
 ## Creating clone file
 
