@@ -7,7 +7,7 @@ categories: wordpress heightdynamics
 
  1. on edit post, Hover on the second widget and click Edit.
 
-    ![alt text]({{ "https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/heightdynamics/walkthrough/change-cta/01.PNG" }} "Step 1")
+    ![alt text]({{ "https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/heightdynamics/walkthrough/change-cta/1.jpg" }} "Step 1")
 
  2. Paste this new text .
 
