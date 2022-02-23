@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Heightdynamics Change CTA Strip"
-date:   2017-11-02 07:36:12 +0800
+date:   2022-02-24 07:36:12 +0800
 categories: wordpress heightdynamics
 ---
 
