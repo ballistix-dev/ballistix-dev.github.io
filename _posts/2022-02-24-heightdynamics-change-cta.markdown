@@ -11,7 +11,7 @@ categories: wordpress heightdynamics
 
  2. Paste this new text .
 
-      WANT TO KNOW MORE? <a href="#mauticform_wrapper_ropeaccessservicesinquiryform"><i class="fa fa-envelope" aria-hidden="true"></i> Email for info</a> OR <a href="tel:07 3862 2533"><i class="fa fa-phone" aria-hidden="true"></i> CALL THE TEAM</a>
+            WANT TO KNOW MORE? <a href="#mauticform_wrapper_ropeaccessservicesinquiryform"><i class="fa fa-envelope" aria-hidden="true"></i> Email for info</a> OR <a href="tel:07 3862 2533"><i class="fa fa-phone" aria-hidden="true"></i> CALL THE TEAM</a>
       
 
     ![STEP 2](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/heightdynamics/walkthrough/change-cta/02.PNG "STEP 2")
