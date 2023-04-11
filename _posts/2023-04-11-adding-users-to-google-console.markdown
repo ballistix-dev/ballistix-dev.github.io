@@ -34,7 +34,7 @@ Ballistix will verify the domain (website address) once we have access.  In orde
 Here are instructions to give a third party delegate access to a GoDaddy account. Other DNS providers should offer similar functionality.
   
     
-[[Node.js](https://au.godaddy.com/help/invite-a-delegate-to-access-my-godaddy-account-12376 )]([https://nodejs.org/](https://au.godaddy.com/help/invite-a-delegate-to-access-my-godaddy-account-12376 )) 
+[https://au.godaddy.com/help/invite-a-delegate-to-access-my-godaddy-account-12376](https://au.godaddy.com/help/invite-a-delegate-to-access-my-godaddy-account-12376)
   
 See the section below if you do not want to give delegate access and validate domain inhouse.
   
@@ -54,4 +54,4 @@ To implement Google Search Console and start gathering data, you need to verify 
 
 Our recommendation is that you verify via your Domain as per the previous step. This process requires you to add a text record against the website domain in your DNS console.
 
-Here are instructions we found online to guide you through this process. [(Verification for a Domain Property)](https://raddinteractive.com/how-to-set-up-google-search-console-getting-started-easily/#domainpropertyverification)
+Here are instructions we found online to guide you through this process. [Verification for a Domain Property](https://raddinteractive.com/how-to-set-up-google-search-console-getting-started-easily/#domainpropertyverification)
