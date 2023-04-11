@@ -54,7 +54,4 @@ To implement Google Search Console and start gathering data, you need to verify 
 
 Our recommendation is that you verify via your Domain as per the previous step. This process requires you to add a text record against the website domain in your DNS console.
 
-Here are instructions we found online to guide you through this process.
-Verification for a Domain Property
-
-[(https://raddinteractive.com/how-to-set-up-google-search-console-getting-started-easily/#domainpropertyverification)](https://raddinteractive.com/how-to-set-up-google-search-console-getting-started-easily/#domainpropertyverification)
+Here are instructions we found online to guide you through this process. [(Verification for a Domain Property)](https://raddinteractive.com/how-to-set-up-google-search-console-getting-started-easily/#domainpropertyverification)
