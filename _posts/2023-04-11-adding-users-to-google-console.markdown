@@ -9,15 +9,13 @@ categories: google console
 
 You will need to have a Google account for this method to work when setting up Search Console.  If you already have Google Analytics, Adwords or Gmail, you can use the same login.
 
-If you do not have a Gmail account, please go and create a free one and make note of your login credentials.
-
-Go to: https://search.google.com/search-console
+If you do not have a Gmail account, please go and create a free one and make note of your login credentials. Go to: [https://search.google.com/search-console](https://search.google.com/search-console)
 
 #### Step 2. Add Ballistix as a Google Console user
   
 After you have created your Google Console account or logged in to your existing account, add the following Ballistix team member as a user with admin permissions.
   
-    Jason.connors@ballistix.com
+    jason.connors@ballistix.com
   
 Click on the Settings tab in the left-hand side panel.  This will open up the Settings page.  The click on Users and permissions tab to the right.
   
@@ -31,14 +29,13 @@ Click on Add User and add Ballistix team member with full Permission level.  The
   
 Ballistix will verify the domain (website address) once we have access.  In order to do this, we need access to your DNS manager so we can add a text record.
 
-Here are instructions to give a third party delegate access to a GoDaddy account. Other DNS providers should offer similar functionality.
+Here are instructions to give a third party delegate access to a GoDaddy account. Other DNS providers should offer similar functionality. [https://au.godaddy.com/help/invite-a-delegate-to-access-my-godaddy-account-12376](https://au.godaddy.com/help/invite-a-delegate-to-access-my-godaddy-account-12376)
   
-    
-[https://au.godaddy.com/help/invite-a-delegate-to-access-my-godaddy-account-12376](https://au.godaddy.com/help/invite-a-delegate-to-access-my-godaddy-account-12376)
+*See the section below if you do not want to give delegate access and validate domain inhouse.*
   
-See the section below if you do not want to give delegate access and validate domain inhouse.
-  
-### Instructions if you want to verify Google Console inhouse
+---
+
+## Instructions if you want to verify Google Console inhouse
 
 #### Step 1: Enter Your Website’s Domain to Add a Property.
 
