@@ -2,7 +2,7 @@
 layout: post
 title:  "How to set up Google Search Console Instructions"
 date:   2023-04-11 07:36:12 +0800
-categories: google console
+categories: google-console
 ---
 
 #### Step 1. Sign in to Search Console With Your Google account.
