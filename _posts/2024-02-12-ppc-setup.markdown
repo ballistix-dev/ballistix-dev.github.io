@@ -5,97 +5,134 @@ date:   2024-02-12 08:06:51 +08:00
 categories: seo
 ---
 
-### Setup Google Ad Account
+## Setup Google Ad Account
 
 <table>
 <tr>
 <td> 
-Visit https://ads.google.com
+
+1. Visit [Google Ads](https://ads.google.com)
 </td>
 <td> 
 
 ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/01.png "Setup Google Ad Account ") 
+
 </td>
 </tr>
+
 <tr>
-<td> Insert your website here </td>
+<td> 
+
+2. Insert your website here 
+</td>
 <td>
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/02.png "Insert your website here") </td>
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/02.png "Insert your website here") 
+
+</td>
 </tr>
 
 <tr>
-<td> Insert your website here </td>
+<td>
+
+3. Start making campaigns and temporarily choose one of the goals. We can update it later once Google Ad account is set up </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/02.png "Insert your website here") </td>
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/03.png "Insert your website here") 
+
+</td>
 </tr>
 
 <tr>
-<td> We will start making campaigns and temporarily choose one of the goals and we will update it once Good Ad account is set up </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/03.png "Insert your website here") </td>
-</tr>
+4. Enter Zip code, city, state or country 
 
-<tr>
-<td> Add Zip code, city, state or country </td>
+</td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/04.png "Insert your website here") </td>
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/04.png "Insert your website here") 
+
+</td>
 </tr>
 
 <tr>
-<td> It is need in creating a Google ad account from the start and we will update it later. </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/05.png "Insert your website here") </td>
-</tr>
-
-<tr>
-<td> Temporary add Keywords details because it is need in creating a Google ad account from the start and we will update it later. </td>
+5. Fill out the campaign details (you can click on the field box for suggestions). We can update this fields later. </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/06.png "Insert your website here") </td>
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/05.png "Insert your website here")
+
+</td>
 </tr>
 
 <tr>
-<td> Temporarily add budget details because it is need in creating a Google ad account from the start and we will update it later. </td>
+<td> 
+
+6. Add your keywords details for this ad campaign. We can remove and add more keywords later. 
+</td>
+<td> 
+
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/06.png "Insert your website here")
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+7. Add your budget option for this ad campaign. We can update this later
+
+</td>
 <td> 
 
 ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/07.png "Insert your website here") </td>
 </tr>
 
 <tr>
-<td> Review campaign and click NEXT </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/08.png "Insert your website here") </td>
+8. Review campaign</td>
+<td> 
+
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/08.png "Insert your website here") 
+</td>
 </tr>
 
 <tr>
-<td> Put your payment information and click SUBMIT </td>
+<td> 
+
+9. Enter your payment details</td>
 <td> 
 
 ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/09.png "Insert your website here") </td>
 </tr>
 
 <tr>
-<td> #### To add and share to Ballistix Consultants Go to TOOLS AND SETTINGS and go to ACCESS & SECURITY </td>
+<td> 
+
+10. To add and share to Ballistix Consultants, go to **Tools and Settings >  Access & Security** </td>
 <td> 
 
 ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/10.png "Insert your website here") </td>
 </tr>
 
 <tr>
-<td> Click the PLUS SIGN to invite us to have access in your Google Ad Account </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/11.png "Insert your website here") </td>
+11. Click the **PLUS SIGN** </td>
+<td> 
+
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/11.png "Insert your website here") 
+
+</td>
 </tr>
 
 <tr>
-<td> Add dino.deasis@ballistix.com & jason.connors@ballistix.com as an ADMIN and click SEN INVITATION </td>
+<td> 
+
+12.  Please add this emails, **dino.deasis@ballistix.com** & **jason.connors@ballistix.com** and select *ADMIN*. <br>Click **Send Invitation** </td>
 <td> 
 
 ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/12.png "Insert your website here") </td>
