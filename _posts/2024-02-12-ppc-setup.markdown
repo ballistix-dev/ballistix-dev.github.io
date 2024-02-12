@@ -7,7 +7,6 @@ categories: seo
 
 ## Setup Google Ad Account
 
-
 | Steps    |  |
 | -------- | ------- |
 | 1. Visit [Google Ads](https://ads.google.com)  | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/01.png)    |
@@ -22,3 +21,26 @@ categories: seo
 | 10. To add and share to Ballistix Consultants, go to **Tools and Settings >  Access & Security**  | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/10.png)      |
 | 11. Click the **PLUS SIGN**    | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/11.png)     |
 | 12.  Please add this emails, **dino.deasis@ballistix.com** & **jason.connors@ballistix.com** and select *ADMIN*. <br>Click **Send Invitation**     | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/12.png)     |
+
+
+### Setup Linkedin Account 
+
+|   |  	|
+| -------- | ------- |
+|  1. Go to [LinkedIn Business Page](https://business.linkedin.com/marketing-solutions/cx/21/11/linkedin-pages?src=go-pa&trk=sem-ga_campid.20073717730_asid.147321870223_crid.657053436912_kw.creating%20a%20showcase%20page%20on%20linkedin_d.c_tid.kwd-1308927988471_n.g_mt.e_geo.9067041&mcid=7059959449221828789&cid=&gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lW0HYbvzXFdyHy7x6gjrTYMZ50u6L51nhD5JVrGUZVPM2MukaPLppxoCEWQQAvD_BwE&gclsrc=aw.ds) and click **Create your Page** | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/linkedin-01.png)    |
+| 2. Choose **Company** | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/linkedin-02.png)      |
+|  3. Enter your business details and click **Create page** to continue  |  ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/linkedin-03.png)     |
+| 4. To add new users, Go to the **Settings** | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/linkedin-04.png)      |
+| 5. Please add this emails, **dino.deasis@ballistix.com** & **jason.connors@ballistix.com** and select *ADMIN*.   | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/linkedin-05.png)     |
+
+### Setup Bing Account 
+
+|   |  	|
+| -------- | ------- |
+|  Go to the Microsoft Advertising sign up page and select Sign up now. In the following window, next to No account?, select Create one! | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/bing-01.png)    |
+| Create a password and then select Next. Enter your First name and Last name, and then select Next. You will need to input your birthday after this | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/bing-02.png)      |
+|  Put the code sent to your email |  ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/bing-03.png)     |
+| Enter your website and create campaign | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/bing-04.png)      |
+| Skip Scanning | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/bing-05.png)      |
+| Skip Campaign creation | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/bing-06.png)      |
+| Fill out the details and create account  | ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/bing-07.png)     |
