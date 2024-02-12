@@ -7,9 +7,31 @@ categories: seo
 
 ### Setup Google Ad Account
 
+
+<table>
+<tr>
+<td>
 Visit https://ads.google.com/ 
+</td>
+<td>
 
 ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/01.png "Setup Google Ad Account ")
+
+</td>
+</tr>
+
+
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+
+
+</table>
+
+
+
+
 
 
 Insert your website here
