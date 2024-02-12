@@ -15,7 +15,7 @@ categories: seo
 </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/01.png "Setup Google Ad Account ") 
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/01.png) 
 
 </td>
 </tr>
@@ -27,7 +27,7 @@ categories: seo
 </td>
 <td>
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/02.png "Insert your website here") 
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/02.png) 
 
 </td>
 </tr>
@@ -38,7 +38,7 @@ categories: seo
 3. Start making campaigns and temporarily choose one of the goals. We can update it later once Google Ad account is set up </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/03.png "Insert your website here") 
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/03.png) 
 
 </td>
 </tr>
@@ -51,7 +51,7 @@ categories: seo
 </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/04.png "Insert your website here") 
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/04.png) 
 
 </td>
 </tr>
@@ -62,7 +62,7 @@ categories: seo
 5. Fill out the campaign details (you can click on the field box for suggestions). We can update this fields later. </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/05.png "Insert your website here")
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/05.png)
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ categories: seo
 </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/06.png "Insert your website here")
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/06.png)
 
 </td>
 </tr>
@@ -87,7 +87,7 @@ categories: seo
 </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/07.png "Insert your website here") </td>
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/07.png) </td>
 </tr>
 
 <tr>
@@ -96,7 +96,7 @@ categories: seo
 8. Review campaign</td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/08.png "Insert your website here") 
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/08.png) 
 </td>
 </tr>
 
@@ -106,7 +106,7 @@ categories: seo
 9. Enter your payment details</td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/09.png "Insert your website here") </td>
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/09.png) </td>
 </tr>
 
 <tr>
@@ -115,7 +115,7 @@ categories: seo
 10. To add and share to Ballistix Consultants, go to **Tools and Settings >  Access & Security** </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/10.png "Insert your website here") </td>
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/10.png) </td>
 </tr>
 
 <tr>
@@ -124,7 +124,7 @@ categories: seo
 11. Click the **PLUS SIGN** </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/11.png "Insert your website here") 
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/11.png) 
 
 </td>
 </tr>
@@ -135,7 +135,7 @@ categories: seo
 12.  Please add this emails, **dino.deasis@ballistix.com** & **jason.connors@ballistix.com** and select *ADMIN*. <br>Click **Send Invitation** </td>
 <td> 
 
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/12.png "Insert your website here") </td>
+![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/12.png) </td>
 </tr>
 
 </table>
