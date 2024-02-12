@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "PPC Setup"
+date:   2024-02-12 08:06:51 +08:00
+categories: seo
+---
+
+Setup Google Ad Account -> Visit 
+https://ads.google.com/ ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/01.png "Setup Google Ad Account -> Visit ")
+
+2. tabl
