@@ -7,65 +7,57 @@ categories: seo
 
 ### Setup Google Ad Account
 
-
 <table>
-<tr>
-<td>
-Visit https://ads.google.com/ 
-</td>
-<td>
-
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/01.png "Setup Google Ad Account ")
-
-</td>
-</tr>
-
-
-<tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-
-
+  <tr>
+    <td> Visit https://ads.google.com/ </td>
+    <td> ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/01.png "Setup Google Ad Account ") </td>
+  </tr>
+  <tr>
+    <td> Insert your website here </td>
+    <td> ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/02.png "Insert your website here") </td>
+  </tr>
+  <tr>
+    <td> Insert your website here </td>
+    <td> ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/02.png "Insert your website here") </td>
+  </tr>
+  <tr>
+    <td> We will start making campaigns and temporarily choose one of the goals and we will update it once Good Ad account is set up </td>
+    <td> ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/03.png "Insert your website here") </td>
+  </tr>
+  <tr>
+    <td> Add Zip code, city, state or country </td>
+    <td> ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/04.png "Insert your website here") </td>
+  </tr>
+  <tr>
+    <td> Temporary fill out the campaign details (just write anything or click on the box and you will see a suggestion). </td>
+    <td> It is need in creating a Google ad account from the start and we will update it later. ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/05.png "Insert your website here") </td>
+  </tr>
+  <tr>
+    <td> Temporary add Keywords details because it is need in creating a Google ad account from the start and we will update it later. </td>
+    <td> ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/06.png "Insert your website here") </td>
+  </tr>
+  <tr>
+    <td> Temporarily add budget details because it is need in creating a Google ad account from the start and we will update it later. </td>
+    <td> ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/07.png "Insert your website here") </td>
+  </tr>
+  <tr>
+    <td> Review campaign and click NEXT </td>
+    <td> ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/08.png "Insert your website here") </td>
+  </tr>
+  <tr>
+    <td> Put your payment information and click SUBMIT </td>
+    <td> ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/09.png "Insert your website here") </td>
+  </tr>
+  <tr>
+    <td> #### To add and share to Ballistix Consultants Go to TOOLS AND SETTINGS and go to ACCESS & SECURITY </td>
+    <td> ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/10.png "Insert your website here") </td>
+  </tr>
+  <tr>
+    <td> Click the PLUS SIGN to invite us to have access in your Google Ad Account </td>
+    <td> ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/11.png "Insert your website here") </td>
+  </tr>
+  <tr>
+    <td> Add dino.deasis@ballistix.com & jason.connors@ballistix.com as an ADMIN and click SEN INVITATION </td>
+    <td> ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/12.png "Insert your website here") </td>
+  </tr>
 </table>
-
-
-
-
-
-
-Insert your website here
- ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/02.png "Insert your website here")
-
-We will start making campaigns and temporarily choose one of the goals and we will update it once Good Ad account is set up
-  ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/03.png "Insert your website here")
-
-Add Zip code, city, state or country
-  ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/04.png "Insert your website here")
-
-Temporary fill out the campaign details (just write anything or click on the box and you will see a suggestion).
-It is need in creating a Google ad account from the start and we will update it later.
- ![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/05.png "Insert your website here")
-
-Temporary add Keywords details because it is need in creating a Google ad account from the start and we will update it later.
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/06.png "Insert your website here")
-
-Temporarily add budget details because it is need in creating a Google ad account from the start and we will update it later.
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/07.png "Insert your website here")
-
-Review campaign and click NEXT
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/08.png "Insert your website here")
-
-Put your payment information and click SUBMIT
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/09.png "Insert your website here")
-
-#### To add and share to Ballistix Consultants
-Go to TOOLS AND SETTINGS and go to ACCESS & SECURITY
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/10.png "Insert your website here")
-
-Click the PLUS SIGN to invite us to have access in your Google Ad Account
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/11.png "Insert your website here")
-
-Add dino.deasis@ballistix.com & jason.connors@ballistix.com as an ADMIN and click SEN INVITATION
-![Alt text](https://s3.us-east-1.amazonaws.com/static2.ballistixmail.com/ballistix/github/2024-02-12-ppc-setup/12.png "Insert your website here")
-
